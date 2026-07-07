@@ -88,7 +88,18 @@ Professional portfolio highlighting Data Analytics projects, dashboards, technic
 - **Tools:** HTML, CSS, JavaScript
 - **Project link:** https://sai-portfolio96.netlify.app/
 
-### Finance-Analysis-Dashboard:
+### 1]Indian Tech Job Market Analysis 2026:
+<p>
+  <img src="Fresher.png" width="800"/>
+</p>
+
+Interactive Excel dashboard analyzing India's tech job market using a real-world Kaggle dataset. Features hiring trends, salary analysis, job roles, city-wise insights, and dynamic filtering with Pivot Tables and Slicers.
+- **Tools:** Microsoft Excel, Pivot Tables, Pivot Charts, Slicers, Excel Formulas, Data Cleaning and EDA.
+- **Project link:** https://github.com/saiyelde1234/Indian-Tech-Job-Market-Analysis-2026/tree/main
+
+---
+
+### 2]Finance-Analysis-Dashboard:
 <p>
   <img src="Finance.png" width="800"/>
 </p>
@@ -99,7 +110,7 @@ Designed and implemented a Finance Analysis Dashboard to evaluate transaction pe
 
 ---
 
-### Hospital Management System (HMS)
+### 3]Hospital Management System (HMS)
 <p>
   <img src="Home1.png" width="800"/>
 </p>
@@ -110,7 +121,7 @@ Focused on reducing manual paperwork and improving operational efficiency throug
 - **Tools:** Python(Flask), SQLite, HTML, CSS, JavaScript
 - **Project link:** https://hospital-management-system1-92b2.onrender.com/
 
-  ### Blinkit Grocery Sales Analytics Dashboard:
+  ### 4]Blinkit Grocery Sales Analytics Dashboard:
 <p>
   <img src="Blinkit.png" width="800"/>
 </p>
