@@ -79,14 +79,23 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
 
 # Projects
 
-### Finance-Analysis-Dashboard
+### See my portfolio:
+<p>
+  <img src="Portfolio img.png" width="800"/>
+</p>
+
+Professional portfolio highlighting Data Analytics projects, dashboards, technical skills, certifications, and career achievements.
+- **Tools:** HTML, CSS, JavaScript
+- **Project link:** https://sai-portfolio96.netlify.app/
+
+### Finance-Analysis-Dashboard:
 <p>
   <img src="Finance.png" width="800"/>
 </p>
 
 Designed and implemented a Finance Analysis Dashboard to evaluate transaction performance, customer behavior, and regional trends across 14.9K+ financial records. Utilized Power BI, DAX, and Power Query to create dynamic visualizations and KPI reports, improving reporting efficiency and supporting strategic business decisions. Delivered actionable insights that helped uncover high-performing customer segments and regional growth opportunities.
 - **Tools:** Power BI, Power Query, DAX, Excel, Data Modeling, Data Visualization
-- **Project link:**https://github.com/saiyelde1234/Finance-Analysis-Dashboard
+- **Project link:** https://github.com/saiyelde1234/Finance-Analysis-Dashboard
 
 ---
 
@@ -98,6 +107,15 @@ Designed and implemented a Finance Analysis Dashboard to evaluate transaction pe
 - Built a full-stack Hospital Management System using Flask and SQLite to digitize patient records, appointment scheduling, and hospital workflows. Implemented secure authentication, admin controls, and a responsive user interface.
 Focused on reducing manual paperwork and improving operational efficiency through a centralized, secure platform.
 
-- **Tools:** Python (Flask), SQLite, HTML, CSS, JavaScript
-- **Project link:**https://hospital-management-system1-92b2.onrender.com/
+- **Tools:** Python(Flask), SQLite, HTML, CSS, JavaScript
+- **Project link:** https://hospital-management-system1-92b2.onrender.com/
+
+  ### Blinkit Grocery Sales Analytics Dashboard:
+<p>
+  <img src="Blinkit.png" width="800"/>
+</p>
+
+Developed an interactive Power BI dashboard to analyze Blinkit's sales performance and business KPIs. The project includes data cleaning with Power Query, DAX measures, and interactive visualizations to explore sales trends, outlet performance, customer ratings, and product categories. The dashboard provides actionable insights to support data-driven business decisions.
+- **Tools:** Power BI, Power Query, DAX, Data Modeling, Data Visualization
+- **Project link:** https://github.com/saiyelde1234/Blinkit_BI_project
 
