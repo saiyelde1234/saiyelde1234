@@ -86,7 +86,7 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
 
 Designed and implemented a Finance Analysis Dashboard to evaluate transaction performance, customer behavior, and regional trends across 14.9K+ financial records. Utilized Power BI, DAX, and Power Query to create dynamic visualizations and KPI reports, improving reporting efficiency and supporting strategic business decisions. Delivered actionable insights that helped uncover high-performing customer segments and regional growth opportunities.
 - **Tools:** Power BI, Power Query, DAX, Excel, Data Modeling, Data Visualization
-- **Project link:**https://github.com/Vijay7972/Medical-Data-Analysis
+- **Project link:**https://github.com/saiyelde1234/Finance-Analysis-Dashboard
 
 ---
 
@@ -99,5 +99,5 @@ Designed and implemented a Finance Analysis Dashboard to evaluate transaction pe
 Focused on reducing manual paperwork and improving operational efficiency through a centralized, secure platform.
 
 - **Tools:** Python (Flask), SQLite, HTML, CSS, JavaScript
-- **Project link:**https://hospital-management-system1-92b2.onrender.com/## 
+- **Project link:**https://hospital-management-system1-92b2.onrender.com/
 
