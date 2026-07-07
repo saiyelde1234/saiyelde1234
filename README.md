@@ -81,7 +81,7 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
 
 ### Finance-Analysis-Dashboard
 <p>
-  <img src="Finance Analysis Dashboard\Finance.png" width="800"/>
+  <img src="Finance.png" width="800"/>
 </p>
 
 Designed and implemented a Finance Analysis Dashboard to evaluate transaction performance, customer behavior, and regional trends across 14.9K+ financial records. Utilized Power BI, DAX, and Power Query to create dynamic visualizations and KPI reports, improving reporting efficiency and supporting strategic business decisions. Delivered actionable insights that helped uncover high-performing customer segments and regional growth opportunities.
@@ -92,7 +92,7 @@ Designed and implemented a Finance Analysis Dashboard to evaluate transaction pe
 
 ### Hospital Management System (HMS)
 <p>
-  <img src="screenshots\Home.png" width="800"/>
+  <img src="Home1.png" width="800"/>
 </p>
 
 - Built a full-stack Hospital Management System using Flask and SQLite to digitize patient records, appointment scheduling, and hospital workflows. Implemented secure authentication, admin controls, and a responsive user interface.
