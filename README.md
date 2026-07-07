@@ -10,12 +10,6 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
 # Socials
 <table>
     <td align="center">
-      <a href="https://x.com/SaiYelde_045?t=HYMWju6c-ggcGoYXdL_DCQ&s=09" target="_blank">
-        <img src="https://pin.it/5JvtZnk51"
-             alt="Twitter" width="80"/><br>
-        <b>Instagram</b>
-      </a>
-    <td align="center">
       <a href="https://www.instagram.com/mr.sai__045?igsh=MWhrMjNvaWNobXdrdw==" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
              alt="Instagram" width="80"/><br>
